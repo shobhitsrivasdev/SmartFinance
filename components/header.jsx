@@ -14,8 +14,6 @@ const Header = async () => {
       <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/">
           <Image
-            src={"/logo.png"}
-            alt="Welth Logo"
             width={200}
             height={60}
             className="h-12 w-auto object-contain"
@@ -27,12 +25,6 @@ const Header = async () => {
           <SignedOut>
             <a href="#features" className="text-gray-600 hover:text-blue-600">
               Features
-            </a>
-            <a
-              href="#testimonials"
-              className="text-gray-600 hover:text-blue-600"
-            >
-              Testimonials
             </a>
           </SignedOut>
         </div>
