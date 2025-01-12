@@ -109,9 +109,6 @@ npm run dev
 2. Set up webhooks
 3. Create processing functions
 
-## 📱 Screenshots
-
-[Add screenshots of your application here]
 
 ## 🚀 Deployment
 
