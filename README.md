@@ -1,4 +1,4 @@
-# AI Finance Platform
+# Smart Finance Platform
 
 A full-stack AI-powered financial platform built with React 19 and Next.js 15, offering intelligent financial insights and analytics.
 
